@@ -183,8 +183,7 @@ cd hangmanGame
 
 **Дмитрий Потыкалов — Junior Frontend Developer**
 
-[GitHub](https://github.com/potykalov) ·
 [Резюме](https://drive.google.com/file/d/1-FthWK2FrCPop39JiLnkouS1WSrIpZer/view) ·
-[Email](mailto:dmitriy.potykalov@gmail.com) <!-- ·
-[Telegram](https://t.me/dmitriy_potykalov) ·
-[LinkedIn](https://www.linkedin.com/in/potykalov) -->
+[Email](mailto:dmitriy.potykalov@gmail.com) ·
+[Telegram](https://t.me/dmitriy_potykalov)  ·
+[LinkedIn](https://www.linkedin.com/in/potykalov)
